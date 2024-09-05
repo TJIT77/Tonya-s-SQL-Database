@@ -1,2 +1,2 @@
-# Tonya-s-SQL-Database
+# Tonya-SQL-Database
 The creation of an SQL database from scratch.
